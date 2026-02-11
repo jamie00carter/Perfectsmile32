@@ -1,0 +1,7 @@
+{
+  "name": "Perfect Smile 32 - Best Dental Clinic in Panipat",
+  "description": "A premium, conversion-optimized dental clinic website for Dr. Rama at Perfect Smile 32, Panipat, featuring painless treatments, Google reviews, and easy booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

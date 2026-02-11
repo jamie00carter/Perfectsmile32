@@ -8,12 +8,12 @@ export const Hero: React.FC = () => {
       {/* Background: Modern Dental Office - High Quality Unsplash Placeholder with Fallback */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="/hero.jpeg" 
+          src="/images/hero.jpeg" 
           alt="Modern Dental Clinic Panipat" 
           className="w-full h-full object-cover"
           onError={(e) => {
             const target = e.target as HTMLImageElement;
-            target.src = "/hero.jpeg";
+            target.src = "/images/hero.jpeg";
           }}
         />
         {/* Semi-transparent white overlay to ensure text readability while maintaining visual depth */}

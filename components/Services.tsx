@@ -5,35 +5,35 @@ const serviceList = [
   {
     title: 'Root Canal Treatment (RCT)',
     desc: 'Advanced painless root canal procedures for long-lasting relief from pain.',
-    image: 'cavitiy.root_.png',
+    image: '/images/cavitiy.root_.png',
     bg: 'bg-white-100',
     imgSize: 'h-48'
   },
   {
     title: 'Dental Implants',
     desc: 'Permanent and natural-looking tooth replacement solutions with high precision.',
-    image: 'Lifeguard-Tooth-1-1.png',
+    image: '/images/Lifeguard-Tooth-1-1.png',
     bg: 'bg-white-100',
     imgSize: 'h-60'
   },
   {
     title: 'Braces & Aligners',
     desc: 'Straighten your smile comfortably and confidently with modern techniques.',
-    image: 'cartoon-smiling-mouth-with-stages-of-crooked-teeth-alignment-using-orthodontic-metal-braces-vector.jpg',
+    image: '/images/cartoon-smiling-mouth-with-stages-of-crooked-teeth-alignment-using-orthodontic-metal-braces-vector.jpg',
     bg: 'bg-white-100',
     imgSize: 'h-48'
   },
   {
     title: 'Wisdom Tooth Surgery',
     desc: 'Smooth, gentle removal with minimal discomfort and rapid recovery time.',
-    image: '231695392-tooth-with-gum-3d-illustration-of-a-tooth-on-a-light-background.png',
+    image: '/images/231695392-tooth-with-gum-3d-illustration-of-a-tooth-on-a-light-background.png',
     bg: 'bg-white-100',
     imgSize: 'h-48',
   },
   {
     title: 'General & Preventive Dentistry',
     desc: 'Routine checkups, cleaning, and complete oral care for the whole family.',
-    image: 'full-mouth.svg',
+    image: '/images/full-mouth.svg',
     bg: 'bg-white-100',
     imgSize: 'h-48'
   }

@@ -18,7 +18,7 @@ export const AboutDoctor: React.FC = () => {
             <div className="absolute -top-6 -left-6 w-32 h-32 bg-orange-600/10 rounded-full blur-3xl"></div>
             <div className="absolute -bottom-6 -right-6 w-32 h-32 bg-slate-600/10 rounded-full blur-3xl"></div>
             <img 
-              src="istockphoto-1364917551-612x612.jpg" 
+              src="/images/istockphoto-1364917551-612x612.jpg" 
               alt="Dr. Rama - Best Dentist in Panipat" 
               className="w-full rounded-[40px] shadow-2xl relative z-10 grayscale-[0.2] hover:grayscale-0 transition-all duration-500"
             />
